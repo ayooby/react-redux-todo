@@ -6,7 +6,7 @@ A simple ToDo list app using old techs like redux.
 it is a simple usage of redux and api calls. 
 the API app is powered express app using MongoDB.
 In the project directory, you can run:
-![](./screenshot.png)
+![](https://github.com/ayooby/react-redux-todo/blob/master/screen-shot.png?raw=true)
 
 ### configuration
 `api/model/index.js` is where you should put your DB URL
